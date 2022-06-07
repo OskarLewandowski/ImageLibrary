@@ -1,0 +1,6 @@
+﻿To use images from git repo:
+![alt text](https://github.com/OskarLewandowski/ImageLibrary/blob/master/ImageLibrary/[image-folder]/[image.png])
+
+example od use:
+![alt text](https://github.com/OskarLewandowski/ImageLibrary/blob/master/ImageLibrary/LottoApp_images/1.png)
+
