@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="LottoApp_images\" />
+    <Folder Include="RestaurantAPI_images\" />
   </ItemGroup>
 
 </Project>
